@@ -149,3 +149,5 @@ ExampleChild, using a React Pure Component: RPureComponent (RComponent would als
             handler()
         }
 ```
+
+Kotlin JavaScript, Kotlin JS, Kotlin/JS, React, RPureComponent
