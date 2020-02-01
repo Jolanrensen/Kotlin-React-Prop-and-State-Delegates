@@ -1,4 +1,4 @@
-# Kotin React Prop and State Delegates
+# Kotlin React Prop and State Delegates
 Kotlinify State and Props in React
 
 # Example (same as Example.kt)
